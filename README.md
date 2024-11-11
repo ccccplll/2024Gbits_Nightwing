@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:452593a707f744914a25655aee2b8f2ad8f28f5904b31e8d4e018aaf227e91f1
-size 271
+2024年吉比特gamejam秋季赛代码仓库
+
+
+团队名称：夜行人
+
+
+logo：
+
+
+团队成员及分工：
+
+
+主程序：蔡灿
+
+
+文案策划、副美工：钟文展
+
+
+音乐音效：L_FLans
+
+
+项目内容：
+
+
+游戏名称：
+
+
+游戏类型：
+
+
+版本介绍：
